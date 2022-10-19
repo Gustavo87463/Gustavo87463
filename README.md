@@ -1,4 +1,10 @@
+Olá, me chamo Gustavo e tenho 17 anos 
+
 #Sobre mim
-😀 Olá me chamo Gustavo e tenho 17 anos 
-😎 Aprendendo 
-😀 Cursando tecnico em informática
+
+ 💻 Aprendendo java
+ 💻 Cursando tecnico em informática
+ 💻 Entendo um pouco de java e lua
+ 
+
+
