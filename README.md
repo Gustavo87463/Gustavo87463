@@ -4,7 +4,7 @@ Olá, me chamo Gustavo e tenho 17 anos
 
  💻 Aprendendo java
  💻 Cursando tecnico em informática
- 💻 Entendo um pouco de java e lua
+ 💻 Entendo um pouco de python e lua
  
 
 
